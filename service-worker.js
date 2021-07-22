@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6a518a734bdbf9db1df89762246ec6da.js"
+  "/precache-manifest.ff6ccad7cf865cfa79006e73fafa4449.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ruscoin"});
