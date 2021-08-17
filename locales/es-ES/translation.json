@@ -1,0 +1,32 @@
+{
+  "transfer": {
+    "title": "Replanteo",
+    "tableTitle": "Invierta RusCoin ahora",
+    "tableColumn1": "Volumen de depósito",
+    "tableColumn2": "Periodo de replanteo",
+    "tableColumn3": "Tarifa por 100 días",
+    "tableColumn4": "Pago de intereses en RusCoin los días 1 y 15",
+    "tableColumn5": "Tarifa por mes",
+    "exampleTitle": "Ejemplo:",
+    "examplePoint1": "Un cliente compró 1,000 RusCoin por $ 1,000 a un precio de $ 1 / RSC",
+    "examplePoint2": "El cliente ha apostado 1.000 RusCoin durante 100 días a una tasa del 4%",
+    "examplePoint3": "El cliente recibe automáticamente 6 RSC en su billetera Waves el día 1 y 15 de cada mes",
+    "examplePoint4": "El precio de RusCoin / USDT está en constante crecimiento, por lo que la estimación de 6 RSC será de $ 6 a $ 300",
+    "examplePoint5": "Un cliente puede vender sus 6 RSC a través de wave.exchange o off-exchange y retirar dinero (!)",
+    "hint": "* Las apuestas para Relictum Pro y Uniswap estarán disponibles en una fecha posterior",
+    "infoTitle": "Breve ayuda sobre RusCoin",
+    "infoPoint1": "La moneda se ha comercializado en wave.exchange durante más de 4 años desde el 30.06.2017",
+    "infoPoint2": "Emitió 22.000.000 de monedas con un valor nominal de $ 50 / RusCoin en 4 blockchains (Waves, erc-20, Relictum Pro, ZHCash)",
+    "infoPoint3": "RusCoin se negocia constantemente en pares con BTC, ETH, Waves, USDT",
+    "infoPoint4": "A partir del 12 de julio de 2021, sin la intervención de los fundadores, el precio bajó a $ 0,88 / RusCoin, pero a un precio tan bajo no puede comprar más de 2000 monedas RusCoin",
+    "infoPoint5": "En agosto de 2021, se emitieron 1.000.000 de monedas en la cadena de bloques ZHCash de quinta generación",
+    "infoPoint6": "El intercambio de RusCoin en la plataforma Relictum Pro comenzará a fines de 2021",
+    "infoPoint7": "Después de la apertura del intercambio comercial en Relictum Pro, se creará un puente (intercambio mutuo equivalente de RusCoin) entre las ondas y las cadenas de bloques Relictum Pro",
+    "infoPoint8": "Antes del inicio del intercambio comercial en Relictum Pro, puede comprar en las olas. Intercambiar a un precio bajo RusCoin y recibir un bono del 20% (+ 10% en monedas para la billetera de olas y + 10% en monedas para el Relictum Pro billetera) sobre el volumen de monedas compradas ",
+    "infoPoint9": "Para recibir el 20% del reembolso del intercambio (bonificaciones), debe enviar una transacción a https://t.me/RusCoin_Bykov",
+    "infoPoint10": "Los fondos de la venta de tokens RusCoin se colocan en la compra de acciones de la Bolsa de Moscú (ticker: MOEX) y la compra de acciones en nuevas empresas prometedoras"
+  },
+  "table": {
+  }
+}
+

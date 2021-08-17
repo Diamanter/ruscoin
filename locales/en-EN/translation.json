@@ -1,0 +1,31 @@
+{
+  "transfer": {
+    "title": "Staking",
+    "tableTitle": "Invest RusCoin right now",
+    "tableColumn1": "Deposit volume",
+    "tableColumn2": "Staking period",
+    "tableColumn3": "Rate for 100 days",
+    "tableColumn4": "Payment of interest in RusCoins on the 1st and 15th",
+    "tableColumn5": "Rate per month",
+    "exampleTitle": "Example:",
+    "examplePoint1": "A client bought 1,000 RusCoin for $1,000 at a price of $1/RSC",
+    "examplePoint2": "The client has placed 1,000 RusCoin in staking for 100 days at a rate of 4%",
+    "examplePoint3": "The client automatically receives 6 RSC to his waves-wallet on the 1st and 15th of each month",
+    "examplePoint4": "The price of RusCoin/USDT is constantly growing, so the 6 RSC estimate will be from $ 6 to $ 300",
+    "examplePoint5": "A client can sell his 6 RSCs through waves.exchange or off-exchange and withdraw money (!)",
+    "hint": "* Staking for Relictum Pro and Uniswap will be available at a later date.",
+    "infoTitle": "Brief info about RusCoin",
+    "infoPoint1": "The coin has been traded on waves.exchange for over 4 years since 06/30/2017",
+    "infoPoint2": "Issued 22,000,000 coins with a face value of $ 50 / RusCoin on 4 blockchains (Waves, ERC-20, Relictum Pro, ZHCash)",
+    "infoPoint3": "RusCoin is steadily traded in pairs with BTC, ETH, Waves, USDT",
+    "infoPoint4": "As of July 12, 2021, without the intervention of the founders, the price dropped to $ 0.88 / RusCoin, but at such a low price you can buy no more than 2000 RusCoin coins",
+    "infoPoint5": "In August 2021, 1,000,000 coins were issued on the 5th generation ZHCash blockchain.",
+    "infoPoint6": "RusCoin exchange trading on the Relictum Pro platform will start at the end of 2021",
+    "infoPoint7": "After the opening of exchange trading on Relictum Pro, a bridge (mutual equivalent exchange of RusCoin) will be created between the waves and Relictum Pro blockchains.",
+    "infoPoint8": "Before the start of exchange trading on Relictum Pro, you can buy on the waves.exchange at a low price RusCoin and get a 20% bonus (+ 10% in coins to the waves wallet and + 10% in coins to the Relictum Pro wallet) on the volume of purchased coins.",
+    "infoPoint9": "To receive 20% of the exchange cashback (bonuses), you need to send a transaction to https://t.me/RusCoin_Bykov",
+    "infoPoint10": "Funds from the sale of RusCoin tokens are placed in the purchase of shares of the Moscow Exchange (ticker: MOEX) and the purchase of shares in promising startups"
+  },
+  "table": {
+  }
+}
