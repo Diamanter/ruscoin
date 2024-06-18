@@ -1,0 +1,35 @@
+{
+  "home": {
+    "title": "RusCoin",
+    "infoTitle": "Kurze Hilfe zu RusCoin",
+    "infoPoint1": "Der Coin wird ab 30.06.2017 seit über 7 Jahren auf wave.exchange gehandelt",
+    "infoPoint2": "Ausgabe von 21.000.000 Coins mit einem Nennwert von 50 $ / RusCoin auf 4 Blockchains (Waves, Bybit Smart Chain, Relictum Pro, ZHCash)",
+    "infoPoint3": "RusCoin wird ständig paarweise mit BTC, ETH, Waves, USDT gehandelt",
+    "infoPoint4": "Ab dem 12. Juli 2021 ist der Preis ohne das Eingreifen der Gründer auf 0,88 USD / RusCoin gefallen, aber zu einem so niedrigen Preis können Sie nicht mehr als 2000 RusCoin-Münzen kaufen.",
+    "infoPoint5": "Im August 2021 wurden 1.000.000 Coins auf der ZHCash-Blockchain der 5. Generation ausgegeben.",
+    "infoPoint6": "Der RusCoin-Börsenhandel auf der Relictum Pro-Plattform wird Ende 2021 beginnen",
+    "infoPoint7": "Nach der Eröffnung des Börsenhandels auf Relictum Pro wird eine Brücke (gegenseitiger gleichwertiger Austausch von RusCoin) zwischen den Wellen und den Relictum Pro-Blockchains geschaffen.",
+    "infoPoint8": "Vor dem Start des Börsenhandels auf Relictum Pro können Sie auf der wave.exchange zu einem günstigen Preis RusCoin kaufen und erhalten einen 20% Bonus (+ 10% in Münzen auf die Waves Wallet und + 10% in Münzen auf die Relictum Pro .) Wallet) auf das Volumen der gekauften Coins.",
+    "infoPoint9": "Um 20% des Austausch-Cashbacks (Boni) zu erhalten, müssen Sie eine Transaktion an https://t.me/RusCoin_Bykov senden",
+    "infoPoint10": "Gelder aus dem Verkauf von RusCoin-Token werden in den Kauf von Aktien der Moskauer Börse (Ticker: MOEX) und den Kauf von Anteilen an vielversprechenden Startups investiert",
+    "whitePaper": "RusCoin White Paper",
+    "warningTitle": "Risiken",
+    "warningText": "Anlagen in Vermögenswerte beinhalten die folgenden Risiken: Risiken im Zusammenhang mit Aktivitäten in einer bestimmten Rechtsordnung, Risiken im Zusammenhang mit den wirtschaftlichen Bedingungen, dem Wettbewerbsumfeld, schnellen Technologie- und Marktänderungen sowie anderen Faktoren, die zu erheblichen Abweichungen von den hier dargestellten Prognosen führen können Webseite... Diese Faktoren können dazu führen, dass die tatsächlichen Ergebnisse von den Annahmen oder vorläufigen Aussagen auf der Website abweichen."
+  },
+  "transfer": {
+    "tableTitle": "Jetzt RusCoin investieren",
+    "tableColumn1": "Einzahlungsvolumen",
+    "tableColumn2": "Absteckzeit",
+    "tableColumn3": "Preis für 100 Tage",
+    "tableColumn4": "Zinszahlung in RusCoin am 1. und 15.",
+    "tableColumn5": "Preis pro Monat",
+    "exampleTitle": "Beispiel:",
+    "examplePoint1": "Ein Kunde kaufte 1.000 RusCoin für 1.000 US-Dollar zu einem Preis von 1 US-Dollar / RSC",
+    "examplePoint2": "Der Kunde hat 1.000 RusCoin für 100 Tage zu einer Rate von 4% in Staking platziert",
+    "examplePoint3": "Der Kunde erhält automatisch am 1. und 15. eines jeden Monats 6 RSC auf sein Wave-Wallet",
+    "examplePoint4": "Der Preis von RusCoin / USDT steigt ständig, daher wird die Schätzung von 6 RSC zwischen 6 und 300 US-Dollar liegen.",
+    "examplePoint5": "Ein Kunde kann seine 6 RSCs über wave.exchange oder außerbörslich verkaufen und Geld abheben (!)",
+    "hint": "* Staking für Relictum Pro und Uniswap wird zu einem späteren Zeitpunkt verfügbar sein.", },
+  "table": {
+  }
+}
