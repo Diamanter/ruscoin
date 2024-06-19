@@ -1,0 +1,21 @@
+{
+  "name": "TonCoin",
+  "timestamp": "2020-09-09T16:43:29+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [],
+  "tokens": [
+    {
+      "address": "0x76a797a59ba2c17726896976b7b3747bfd1d220f",
+      "chainId": 56,
+      "name": "TonCoin",
+      "symbol": "TON",
+      "decimals": 9,
+      "logoURI": "https://ton.org/img/logo.svg"
+    }
+  ],
+  "logoURI": "https://ton.org/img/logo.svg"
+}

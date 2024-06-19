@@ -1,6 +1,23 @@
 {
+  "home": {
+    "title": "RusCoin",
+    "infoTitle": "关于 RusCoin 的简要帮助",
+    "infoPoint1": "自 2017 年 6 月 30 日起，该代币已在 wave.exchange 上交易超过 7 年",
+    "infoPoint2": "在 7 个区块链（Waves、ERC-20、Relictum Pro、ZHCash）上发行了 21,000,000 枚面值为 50 美元/RusCoin 的硬币",
+    "infoPoint3": "RusCoin 稳定地与 BTC、ETH、Waves、USDT 成对交易",
+    "infoPoint4": "截至 2021 年 7 月 12 日，在没有创始人干预的情况下，价格跌至 0.88 美元 / RusCoin，但在如此低的价格下，您最多只能购买 2000 个 RusCoin 硬币",
+    "infoPoint5": "2021 年 8 月，在第 5 代 ZHCash 区块链上发行了 1,000,000 个硬币。",
+    "infoPoint6": "Relictum Pro 平台上的 RusCoin 交易所交易将于 2021 年底开始",
+    "infoPoint7": "在 Relictum Pro 上开放交易所交易后，将在 wave 和 Relictum Pro 区块链之间建立一座桥梁（RusCoin 的相互等价交换）。",
+    "infoPoint8": "在 Relictum Pro 开始交易所交易之前，您可以在 wave.exchange 上以低价购买 RusCoin 并获得 20% 的奖金（+ 10% 的硬币到 wave 钱包和 + 10% 的硬币到 Relictum Pro钱包）上购买的硬币的数量。",
+    "infoPoint9": "要获得 20% 的兑换现金返还（奖金），您需要将交易发送至 https://t.me/RusCoin_Bykov",
+    "infoPoint10": "出售 RusCoin 代币的资金用于购买莫斯科交易所（股票代码：MOEX）的股票以及购买有前途的初创公司的股票",
+    "whitePaper": "RusCoin 白皮书",
+    "warningTitle": "风险",
+    "warningText": "资产投资包括以下风险：与特定司法管辖区的活动相关的风险、与经济状况、竞争环境、快速的技术和市场变化相关的风险，以及其他可能导致与本报告中的预测存在重大偏差的因素网站... 这些因素可能导致实际结果与网站中包含的假设或初步陈述不同。"
+  },
   "transfer": {
-    "title": "赌注",
+    "title": "RusCoin",
     "tableTitle": "立即投资 RusCoin",
     "tableColumn1": "存款量",
     "tableColumn2": "抵押期",
@@ -13,18 +30,7 @@
     "examplePoint3": "客户在每个月的 1 号和 15 号自动收到 6 RSC 到他的 wave-wallet",
     "examplePoint4": "RusCoin / USDT 的价格在不断上涨，所以 6 RSC 估计会从 6 美元到 300 美元",
     "examplePoint5": "客户可以通过 wave.exchange 或场外出售他的 6 个 RSC 并提取资金",
-    "hint": "* Relictum Pro 和 Uniswap 的 Staking 将在稍后提供。",
-    "infoTitle": "关于 RusCoin 的简要帮助",
-    "infoPoint1": "自 2017 年 6 月 30 日起，该代币已在 wave.exchange 上交易超过 4 年",
-    "infoPoint2": "在 4 个区块链（Waves、ERC-20、Relictum Pro、ZHCash）上发行了 22,000,000 枚面值为 50 美元/RusCoin 的硬币",
-    "infoPoint3": "RusCoin 稳定地与 BTC、ETH、Waves、USDT 成对交易",
-    "infoPoint4": "截至 2021 年 7 月 12 日，在没有创始人干预的情况下，价格跌至 0.88 美元 / RusCoin，但在如此低的价格下，您最多只能购买 2000 个 RusCoin 硬币",
-    "infoPoint5": "2021 年 8 月，在第 5 代 ZHCash 区块链上发行了 1,000,000 个硬币。",
-    "infoPoint6": "Relictum Pro 平台上的 RusCoin 交易所交易将于 2021 年底开始",
-    "infoPoint7": "在 Relictum Pro 上开放交易所交易后，将在 wave 和 Relictum Pro 区块链之间建立一座桥梁（RusCoin 的相互等价交换）。",
-    "infoPoint8": "在 Relictum Pro 开始交易所交易之前，您可以在 wave.exchange 上以低价购买 RusCoin 并获得 20% 的奖金（+ 10% 的硬币到 wave 钱包和 + 10% 的硬币到 Relictum Pro钱包）上购买的硬币的数量。",
-    "infoPoint9": "要获得 20% 的兑换现金返还（奖金），您需要将交易发送至 https://t.me/RusCoin_Bykov",
-    "infoPoint10": "出售 RusCoin 代币的资金用于购买莫斯科交易所（股票代码：MOEX）的股票以及购买有前途的初创公司的股票"
+    "hint": "* Relictum Pro 和 Uniswap 的 Staking 将在稍后提供。"
   },
   "table": {
   }

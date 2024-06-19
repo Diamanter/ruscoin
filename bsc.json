@@ -1,0 +1,21 @@
+{
+  "name": "RusCoin",
+  "timestamp": "2020-09-09T16:43:29+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [],
+  "tokens": [
+    {
+      "address": "0xb5F8eC2e6190Bc79e4a6D64168Bd0BA406c31073",
+      "chainId": 56,
+      "name": "RusCoin",
+      "symbol": "RSC",
+      "decimals": 5,
+      "logoURI": "https://ruscoin.vip/img/icons/mstile-150x150.png"
+    }
+  ],
+  "logoURI": "https://ruscoin.vip/img/icons/mstile-150x150.png"
+}
